@@ -7,9 +7,10 @@ Implementar uma função `getNames()`que recebe como argumento uma string `name`
 2. surnames
 
 EXEMPLO:
-`name`: Maria Joaquina da Silva
-`firstName`: Maria
-`surnames`: Joaquina da Silva
+
+- `name`: Maria Joaquina da Silva
+- `firstName`: Maria
+- `surnames`: Joaquina da Silva
 
 ```
 const getNames = function(name){
