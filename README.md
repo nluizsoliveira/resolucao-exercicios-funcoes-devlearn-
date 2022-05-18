@@ -1,5 +1,5 @@
 # resolucao-exercicios-funcoes-devlearn-Codelab Sanca
-
+https://www.youtube.com/watch?v=lSaKLxt8RF4
 ## Exercício 1
 Implementar uma função `getNames()`que recebe como argumento uma string `name` e retorna 2 Strings:
 
